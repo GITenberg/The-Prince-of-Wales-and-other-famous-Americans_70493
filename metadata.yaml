@@ -1,0 +1,61 @@
+_repo: The-Prince-of-Wales-and-other-famous-Americans_70493
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Covarrubias, Miguel
+    aliases:
+    - Duclaud, Miguel Covarrubias
+    - Duclaud, José Miguel Covarrubias
+    - Duclaud, Jose Miguel Covarrubias
+    birthdate: 1904
+    deathdate: 1957
+    gutenberg_agent_id: '55776'
+    url: http://www.gutenberg.org/2009/agents/55776
+    wikipedia: https://en.wikipedia.org/wiki/Miguel_Covarrubias#External_links
+  author_of_introduction:
+    agent_name: Van Vechten, Carl
+    aliases:
+    - Vetchen, Carl Van
+    - Vechten, Carl Van
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '31911'
+    url: http://www.gutenberg.org/2009/agents/31911
+    wikipedia: https://en.wikipedia.org/wiki/Carl_Van_Vechten
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70493'
+  lccn: '25020639'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.b3240732&view=1up&seq=9
+pgterms:marc905: 20230405100721covarrubia
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Chuck Greif (This file was produced from images available at The
+  Hathi Trust)
+publication_note: '  $aUnited States :$bAlfred A. Knopf, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caricatures and cartoons -- United States'
+- !lcc 'NC'
+- GITenberg
+tableOfContents: The Prince of Wales -- Florence Mills -- Otto H. Kahn -- Willa Cather
+  -- Jack Depsey -- Charlie Chaplin -- Calvin Coolidge -- H. L. Mencken -- George
+  Jean Nathan -- John D. Rockefeller -- Ann Pennington -- Al Smith -- Jascha Heifetz
+  -- Mary Pickford -- Theodore Dreiser -- Harold Lloyd -- Alfred Steiglitz -- Ed Wynn
+  -- George Gershwin -- George Horace Lorimer -- Rudolph Valentino -- Leopold Stokowski
+  -- Babe Ruth -- Carl Van Vechten -- Eddie Cantor -- Alexander Woollcott -- Mrs.
+  Fiske -- Joseph Hergesheimer -- Lillian Gish -- Fritz Kreisler -- Paul Whiteman
+  -- Eugene O'Neill -- Fanny Brice -- Frank Crowninshield -- Fred Stone -- Heywood
+  Broun -- Lenore Ulric -- Fred and Adele Astaire -- Franklin P. Adams -- Lee Simonson
+  -- John Barrymore -- Helen Westley -- Will Rogers -- Robert Edmond Jones -- Gloria
+  Swanson -- Ralph Barton -- Morris Gest -- Ivy Maddison -- Avery Hopwood -- William
+  S. Hart -- Carlotta Monterey -- Irving Berlin -- Eva Le Gallienne -- Douglas Fairbanks
+  -- Rose Rolando -- Pauline Lord -- Picasso -- W. Somerset Maugham -- Xavier Algara
+  -- Plutarco Elias Calles -- Ernest Newman -- José Juan Tablada -- Igor Stravinsky
+  -- Ramón del Valle Inclán -- Serge Koussevitsky -- Miguel Covarrubias.
+title: The Prince of Wales and other famous Americans
+url: http://www.gutenberg.org/ebooks/70493
