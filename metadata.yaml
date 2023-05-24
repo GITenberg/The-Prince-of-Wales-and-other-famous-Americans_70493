@@ -22,7 +22,12 @@ contributor:
     gutenberg_agent_id: '31911'
     url: http://www.gutenberg.org/2009/agents/31911
     wikipedia: https://en.wikipedia.org/wiki/Carl_Van_Vechten
+covers:
+- cover_type: archival
+  image_path: 70493-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70493#The-Prince-of-Wales-and-other-famous-Americans
 gutenberg_issued: '2023-04-07'
 identifiers:
   gutenberg: '70493'
